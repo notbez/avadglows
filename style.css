@@ -7,6 +7,12 @@ body {
       text-align: center;
   }
 
+  html, body {
+    overflow-x: hidden; /* Запрещаем горизонтальную прокрутку */
+    max-width: 100vw; /* Запрещаем выход элементов за границы экрана */
+    padding: 0;
+}
+
   header {
       background: url('https://source.unsplash.com/1600x900/?jewelry') no-repeat center;
       background-size: cover;
@@ -16,23 +22,31 @@ body {
   
   background-size: cover;
   }
-  .catalog-container, #cart-container {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 20px;
-      padding: 20px;
-      justify-content: center;
-  }
-  .product {
-      background: whitesmoke;
-      border-radius: 10px;
-      padding: 20px;
-      width: 90%;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-  }
+
+
+  .catalog-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Жестко фиксируем 2 колонки */
+    gap: 10px;
+    padding: 10px;
+    width: 100%; /* Растягиваем контейнер на всю ширину */
+    max-width: 800px; /* Ограничиваем максимальную ширину */
+    margin: 0 auto; /* Центрируем */
+}
+
+.product {
+    background: whitesmoke;
+    border-radius: 10px;
+    padding: 10px;
+    width: 80%; /* Карточка занимает всю ширину своей ячейки */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Убираем адаптацию, фиксируем всегда 2 колонки */
+
   button {
       background-color: #a67c52;
       color: whitesmoke;
