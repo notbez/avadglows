@@ -212,3 +212,17 @@ h1{
     padding-right: 5%;
     
   }
+
+
+#otvzx{
+    justify-content: center;
+    align-items: center;
+}
+
+.otziv{
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-size: 150%;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}

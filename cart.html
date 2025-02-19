@@ -1,7 +1,7 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <link href="https://fonts.googleapis.com/css?family=Poiret+One&display=swap&subset=cyrillic" rel="stylesheet">
     <title>Корзина</title>
     <link rel="stylesheet" href="style.css">
@@ -9,14 +9,19 @@
 <body>
     <header>
         <h1>Корзина</h1>
-        <nav>
+    </header>
+
+    <hr class="header-line1">
+
+        <nav class="popopopo" id="otvzx">
             <a href="index.html">На главную</a>
         </nav>
-    </header>
+    
+        <hr class="header-line1">
+
     <section>
-        <h2>Ваши товары</h2>
         <div id="cart-container"></div>
-        <button onclick="clearCart()">Очистить корзину</button>
+        <button onclick="clearCart()" style="font-family: 'Poiret One', cursive;">Очистить корзину</button>
     </section>
     <script src="cart.js"></script>
 </body>
