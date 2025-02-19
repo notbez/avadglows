@@ -298,7 +298,7 @@ const catalog = [
         id: 34,
         name: "Часы Lady-Datejust Oyster",
         price: 2180000,
-        img: "https://sun1-94.userapi.com/impg/rZab-TE2YqjgFzHBYxnK4rrvCQ6RwYeaziQ52w/2fn8k96Yj00.jpg?size=1080x1043&quality=95&sign=9897b0328c12a10ee08c1553d9fb3e10&type=album",
+        img: "https://sun9-44.userapi.com/impg/rZab-TE2YqjgFzHBYxnK4rrvCQ6RwYeaziQ52w/2fnQkkiTmcA.jpg?size=1104x1044&quality=95&sign=4c9bb1d166f6a2745d6fd369e56f5606&type=album",
         category: "watch",
         description:
             "Oyster, 28 мм, белое золото и бриллианты , Часы Oyster Perpetual Lady-Datejust, 18-каратное белое золото; циферблат: бриллиантовое «паве»; браслет: President, бриллианты.",
@@ -307,7 +307,7 @@ const catalog = [
         id: 35,
         name: "Часы Roadster XL Chronograph 2826",
         price: 1900000,
-        img: "https://sun1-26.userapi.com/impg/t2r7kX39U53Z0K7f56m99w95IjuR-Fv6c21lAQ/k0fF8iF-qYc.jpg?size=1021x1024&quality=95&sign=98ff93a1b28c8f09df98890583a50e04&type=album",
+        img: "https://sun6-22.userapi.com/impg/T_d7xX4-doWhRw8c_k-6UBm4nIDx8-a3sEYM7Q/3C3ErB4gd7Q.jpg?size=1170x1260&quality=95&sign=eb3e74688b236c9284a182a3123b87bd&type=album",
         category: "watch",
         description:
             "белое золото, сапфировое стекло, кожаный ремешок, водонепроницаемость 100м",
@@ -316,7 +316,7 @@ const catalog = [
         id: 36,
         name: "Часы Datejust 41mm Diamonds",
         price: 1690000,
-        img: "https://sun1-85.userapi.com/impg/aF6-sI3_u3i7M-i_Q-50v2w7kYnAJYvT1y04eA/jQoF_m6G0_w.jpg?size=828x844&quality=95&sign=6b1b3f971c48016a071c0c0ee494f42a&type=album",
+        img: "https://sun9-35.userapi.com/impg/4v8C417guV5MdknceHpIbIk1JUmnC2vH15EeDg/P38iADFnTBw.jpg?size=1101x1163&quality=95&sign=e463a0a9616dc553dbeb51b6715734f9&type=album",
         category: "watch",
         description:
             "Состояние: Новые, Пол: Унисекс, Форма корпуса: Круглые, Коллекция: Datejust, Страна-производитель: Швейцария. , Референс: 126300, Тип часов: Классические. , Материал корпуса: Нержавеющая сталь и 18-к белое золото. Корпус и безель дополнительно инкрустирован бриллиантами. , Размер корпуса: 41 мм. , Тип стекла: Сапфировое. , Тип механизма: Автоматический. , Материал ремешка: Браслет из нержавеющей стали дополнительно инкрустирован бриллиантами. , Циферблат: Бриллиантовый. , Водонепроницаемые: 100 м. , Функции: Дата, часы, минуты, секунды. , Комплектация: Полный комплект, абсолютно новые.",
@@ -325,7 +325,7 @@ const catalog = [
         id: 37,
         name: "Часы Ballon Bleu De Cartier WSBB0002",
         price: 628000,
-        img: "https://sun1-82.userapi.com/impg/7o8G_85p3u6uS5yP7lTsvh1m7sUo6GszDOG05Q/wT99K4Qz49U.jpg?size=1059x1080&quality=95&sign=58633825b421973af8f5e5f22885e465&type=album",
+        img: "https://sun9-36.userapi.com/impg/PEbfhUWawTeqfKy5vRAql-OKxzQBdkAk90rn3A/Ji0JJLDj320.jpg?size=892x1280&quality=95&sign=03d79f0271725ebc736bd1bad59491f6&type=album",
         category: "watch",
         description:
             "33 мм, механизм с автоматическим подзаводом. Корпус из стали, рифленая заводная головка с синтетической шпинелью в форме кабошона, циферблат розового цвета, римские цифры, стрелки в форме мечей из вороненой стали, сапфировое стекло, ремешок из кожи аллигатора розового цвета, двойная регулируемая раскладывающаяся застежка из стали. Размеры корпуса: диаметр: 33 мм, высота: 9,96 мм. Водонепроницаемость до 3 бар (30 метров).",
@@ -334,7 +334,7 @@ const catalog = [
         id: 38,
         name: "Tiffany Eternity",
         price: 1990000,
-        img: "https://sun1-17.userapi.com/impg/a25606lq2hRixqT1L0E6Vl0N6f5GsdJ2oX9g4Q/T6wZNYQfR0Y.jpg?size=980x980&quality=95&sign=e1372fd5a4c4c2009897b81a8c04e495&type=album",
+        img: "https://sun9-68.userapi.com/impg/S03gVUFzUM8jJN6zHbymaju-LF1kZ0OEQkefFw/yg1Kx0U3giA.jpg?size=1096x1065&quality=95&sign=d495d5769de96de6cda7fe16a40616c2&type=album",
         category: "watch",
         description:
             "Белое золото 18 карат с бриллиантами, Квадратный корпус 28 мм с бриллиантами круглой огранки на безеле, Заводная головка с бриллиантом круглой огранки, Черный матированный ремешок из телячьей кожи с застежкой из белого золота 18 карат с 10 бриллиантами круглой огранки, Общий вес - 1,63 карата, Высокоточный швейцарский кварцевый механизм, Водонепроницаемость до 30 м/100 футов/3 атмосфер",
