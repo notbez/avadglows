@@ -226,3 +226,40 @@ h1{
     padding-left: 0.5em;
     padding-right: 0.5em;
 }
+
+.footer{
+    background-color: black;
+    width: auto;
+    margin: 0;
+    padding: 1em;
+    display: flex;
+
+  justify-content: space-between;
+}
+
+.iconka{
+    width: 2em;
+    filter: invert(100%);
+}
+
+.lolollo{
+    color: whitesmoke;
+}
+
+.social{
+    margin-bottom: 1em;
+}
+
+.popka{
+    width: 100%;
+    /* Занимает всю доступную ширину */
+    margin: 0px 0px 0.2em 0px;
+    /* Убираем отступ слева */
+    border: none;
+    /* Убираем стандартные границы */
+    height: 1.5px;
+    /* Толщина линии */
+    background-color: rgb(228, 204, 64);
+    /* Цвет линии */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+}
